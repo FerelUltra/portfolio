@@ -1,7 +1,7 @@
 .video {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    border-radius: 25%;
     position: relative;
 }
 
@@ -23,4 +23,5 @@
     color: red;
     width: 50px;
     height: 50px;
+    cursor: pointer;
 }
